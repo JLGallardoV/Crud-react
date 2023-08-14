@@ -1,7 +1,7 @@
 import TaskList from "./TaskList"
 
 
-function HolaMundo() {
+function ComponentePrincipal() {
   return (
     <div>
       <TaskList/>
@@ -9,4 +9,4 @@ function HolaMundo() {
   )
 }
 
-export default HolaMundo;
+export default ComponentePrincipal;

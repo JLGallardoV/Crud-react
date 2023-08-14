@@ -10,8 +10,8 @@ export const tasks = [
         description: 'example 2'
     },
     {
-        id: 3,
+    id: 3,
         title: 'third',
         description: 'example 3'
-    },
+    }
 ]
